@@ -9,3 +9,7 @@
 
 # Top Solder
 * 0.075mm manual expansion
+
+# Top Component Centre
+* 0.25mm long cross
+* 0.1mm width
